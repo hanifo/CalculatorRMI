@@ -34,9 +34,6 @@ The client calls calculator methods that run on a remote server.
 javac *.java
 java CalculatorServer
 Open a new terminal:
-
-bash
-Copy code
 java CalculatorClient
 🎓 Purpose
 Advanced Programming (Java) assignment to understand client-server communication using RMI.
